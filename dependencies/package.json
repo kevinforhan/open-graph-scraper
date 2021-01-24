@@ -1,0 +1,24 @@
+{
+    "name": "ppen-graph-scraper",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "serve": "parcel serve src/index.html"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "axios": "^0.21.1",
+      "body-parser": "^1.19.0",
+      "bootstrap": "^4.5.3",
+      "cors": "^2.8.5",
+      "express": "^4.17.1",
+      "xmldom": "^0.4.0",
+      "xpath": "0.0.32"
+    },
+    "devDependencies": {
+      "parcel": "^1.12.4"
+    }
+  }
